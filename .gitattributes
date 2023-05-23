@@ -1,0 +1,2 @@
+*.so filter=lfs diff=lfs merge=lfs -text
+Installation/Binaries/Virtualite-armv7.so filter=lfs diff=lfs merge=lfs -text

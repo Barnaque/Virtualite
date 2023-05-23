@@ -1,0 +1,1 @@
+../../../Virtualite/Virtualite.uproject  /Game/VirtualRealityBP/Maps/VisionMap -Messaging -SessionId=65B59EAC4BF1EB6EE1B3F59A3EF2C9FA -SessionOwner="neo_m" -SessionName="Launch On Device" -iterative

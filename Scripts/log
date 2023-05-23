@@ -1,0 +1,924 @@
+ALL
+allObjs : Carre.obj
+Cube3D.obj
+Pyramide3D.obj
+Rectangle.obj
+Rectangle3D.obj
+TABLE.obj
+Triangle1.obj
+Triangle3.obj
+Triangle4.obj
+Triangle5.obj
+Triangle6.obj
+Triangle7.obj
+triangle2.obj
+will replace %_MODEL1" with Content/Carre.obj" in savefile.
+will replace %_MODEL2" with Content/Cube3D.obj" in savefile.
+will replace %_MODEL3" with Content/Pyramide3D.obj" in savefile.
+will replace %_MODEL4" with Content/Rectangle.obj" in savefile.
+will replace %_MODEL5" with Content/Rectangle3D.obj" in savefile.
+will replace %_MODEL6" with Content/TABLE.obj" in savefile.
+will replace %_MODEL7" with Content/Triangle1.obj" in savefile.
+will replace %_MODEL8" with Content/Triangle3.obj" in savefile.
+will replace %_MODEL9" with Content/Triangle4.obj" in savefile.
+will replace %_MODEL10" with Content/Triangle5.obj" in savefile.
+will replace %_MODEL11" with Content/Triangle6.obj" in savefile.
+will replace %_MODEL12" with Content/Triangle7.obj" in savefile.
+will replace %_MODEL13" with Content/triangle2.obj" in savefile.
+
+
+
+
+
+
+
+
+../Projet/Carre.obj: 1 file pushed, 0 skipped. 1.4 MB/s (372 bytes in 0.000s)
+../Projet/Cube3D.obj: 1 file pushed, 0 skipped. 4.8 MB/s (951 bytes in 0.000s)
+../Projet/Pyramide3D.obj: 1 file pushed, 0 skipped. 3.7 MB/s (736 bytes in 0.000s)
+../Projet/Rectangle.obj: 1 file pushed, 0 skipped. 2.1 MB/s (380 bytes in 0.000s)
+../Projet/Rectangle3D.obj: 1 file pushed, 0 skipped. 5.3 MB/s (965 bytes in 0.000s)
+../Projet/TABLE.obj: 1 file pushed, 0 skipped. 18.2 MB/s (3946 bytes in 0.000s)
+../Projet/Triangle1.obj: 1 file pushed, 0 skipped. 1.2 MB/s (322 bytes in 0.000s)
+../Projet/Triangle3.obj: 1 file pushed, 0 skipped. 1.8 MB/s (323 bytes in 0.000s)
+../Projet/Triangle4.obj: 1 file pushed, 0 skipped. 1.9 MB/s (322 bytes in 0.000s)
+../Projet/Triangle5.obj: 1 file pushed, 0 skipped. 1.6 MB/s (323 bytes in 0.000s)
+../Projet/Triangle6.obj: 1 file pushed, 0 skipped. 1.7 MB/s (322 bytes in 0.000s)
+../Projet/Triangle7.obj: 1 file pushed, 0 skipped. 2.0 MB/s (322 bytes in 0.000s)
+../Projet/triangle2.obj: 1 file pushed, 0 skipped. 2.1 MB/s (324 bytes in 0.000s)
+13 files pushed, 0 skipped. 0.5 MB/s (9608 bytes in 0.019s)
+adb: error: cannot stat '../Projet/*.png': No such file or directory
+tmp.json: 1 file pushed, 0 skipped. 37.3 MB/s (13294 bytes in 0.000s)
+load: 1 file pushed, 0 skipped. 0.0 MB/s (5 bytes in 0.000s)
+rights: 1 file pushed, 0 skipped. 0.0 MB/s (6 bytes in 0.000s)
+projectname: 1 file pushed, 0 skipped. 0.0 MB/s (7 bytes in 0.000s)
+Starting: Intent { cmp=com.Barnaque.Virtualite/com.epicgames.ue4.GameActivity }
+ALL
+allObjs : Carre.obj
+Cube3D.obj
+Pyramide3D.obj
+Rectangle.obj
+Rectangle3D.obj
+TABLE.obj
+Triangle1.obj
+Triangle3.obj
+Triangle4.obj
+Triangle5.obj
+Triangle6.obj
+Triangle7.obj
+triangle2.obj
+will replace %_MODEL1" with Content/Carre.obj" in savefile.
+will replace %_MODEL2" with Content/Cube3D.obj" in savefile.
+will replace %_MODEL3" with Content/Pyramide3D.obj" in savefile.
+will replace %_MODEL4" with Content/Rectangle.obj" in savefile.
+will replace %_MODEL5" with Content/Rectangle3D.obj" in savefile.
+will replace %_MODEL6" with Content/TABLE.obj" in savefile.
+will replace %_MODEL7" with Content/Triangle1.obj" in savefile.
+will replace %_MODEL8" with Content/Triangle3.obj" in savefile.
+will replace %_MODEL9" with Content/Triangle4.obj" in savefile.
+will replace %_MODEL10" with Content/Triangle5.obj" in savefile.
+will replace %_MODEL11" with Content/Triangle6.obj" in savefile.
+will replace %_MODEL12" with Content/Triangle7.obj" in savefile.
+will replace %_MODEL13" with Content/triangle2.obj" in savefile.
+
+
+
+
+
+
+
+
+../Projet/Carre.obj: 1 file pushed, 0 skipped. 1.5 MB/s (372 bytes in 0.000s)
+../Projet/Cube3D.obj: 1 file pushed, 0 skipped. 5.4 MB/s (951 bytes in 0.000s)
+../Projet/Pyramide3D.obj: 1 file pushed, 0 skipped. 4.4 MB/s (736 bytes in 0.000s)
+../Projet/Rectangle.obj: 1 file pushed, 0 skipped. 2.3 MB/s (380 bytes in 0.000s)
+../Projet/Rectangle3D.obj: 1 file pushed, 0 skipped. 4.4 MB/s (965 bytes in 0.000s)
+../Projet/TABLE.obj: 1 file pushed, 0 skipped. 18.9 MB/s (3946 bytes in 0.000s)
+../Projet/Triangle1.obj: 1 file pushed, 0 skipped. 2.0 MB/s (322 bytes in 0.000s)
+../Projet/Triangle3.obj: 1 file pushed, 0 skipped. 2.0 MB/s (323 bytes in 0.000s)
+../Projet/Triangle4.obj: 1 file pushed, 0 skipped. 1.9 MB/s (322 bytes in 0.000s)
+../Projet/Triangle5.obj: 1 file pushed, 0 skipped. 2.0 MB/s (323 bytes in 0.000s)
+../Projet/Triangle6.obj: 1 file pushed, 0 skipped. 1.9 MB/s (322 bytes in 0.000s)
+../Projet/Triangle7.obj: 1 file pushed, 0 skipped. 2.0 MB/s (322 bytes in 0.000s)
+../Projet/triangle2.obj: 1 file pushed, 0 skipped. 2.1 MB/s (324 bytes in 0.000s)
+13 files pushed, 0 skipped. 0.6 MB/s (9608 bytes in 0.014s)
+adb: error: cannot stat '../Projet/*.png': No such file or directory
+tmp.json: 1 file pushed, 0 skipped. 34.9 MB/s (13294 bytes in 0.000s)
+load: 1 file pushed, 0 skipped. 0.0 MB/s (5 bytes in 0.000s)
+rights: 1 file pushed, 0 skipped. 0.0 MB/s (6 bytes in 0.000s)
+projectname: 1 file pushed, 0 skipped. 0.0 MB/s (7 bytes in 0.000s)
+Starting: Intent { cmp=com.Barnaque.Virtualite/com.epicgames.ue4.GameActivity }
+ALL
+allObjs : Carre.obj
+Cube3D.obj
+Pyramide3D.obj
+Rectangle.obj
+Rectangle3D.obj
+TABLE.obj
+Triangle1.obj
+Triangle3.obj
+Triangle4.obj
+Triangle5.obj
+Triangle6.obj
+Triangle7.obj
+triangle2.obj
+will replace %_MODEL1" with Content/Carre.obj" in savefile.
+will replace %_MODEL2" with Content/Cube3D.obj" in savefile.
+will replace %_MODEL3" with Content/Pyramide3D.obj" in savefile.
+will replace %_MODEL4" with Content/Rectangle.obj" in savefile.
+will replace %_MODEL5" with Content/Rectangle3D.obj" in savefile.
+will replace %_MODEL6" with Content/TABLE.obj" in savefile.
+will replace %_MODEL7" with Content/Triangle1.obj" in savefile.
+will replace %_MODEL8" with Content/Triangle3.obj" in savefile.
+will replace %_MODEL9" with Content/Triangle4.obj" in savefile.
+will replace %_MODEL10" with Content/Triangle5.obj" in savefile.
+will replace %_MODEL11" with Content/Triangle6.obj" in savefile.
+will replace %_MODEL12" with Content/Triangle7.obj" in savefile.
+will replace %_MODEL13" with Content/triangle2.obj" in savefile.
+
+
+
+
+
+
+
+
+../Projet/Carre.obj: 1 file pushed, 0 skipped. 1.6 MB/s (372 bytes in 0.000s)
+../Projet/Cube3D.obj: 1 file pushed, 0 skipped. 5.5 MB/s (951 bytes in 0.000s)
+../Projet/Pyramide3D.obj: 1 file pushed, 0 skipped. 4.4 MB/s (736 bytes in 0.000s)
+../Projet/Rectangle.obj: 1 file pushed, 0 skipped. 2.4 MB/s (380 bytes in 0.000s)
+../Projet/Rectangle3D.obj: 1 file pushed, 0 skipped. 6.0 MB/s (965 bytes in 0.000s)
+../Projet/TABLE.obj: 1 file pushed, 0 skipped. 20.4 MB/s (3946 bytes in 0.000s)
+../Projet/Triangle1.obj: 1 file pushed, 0 skipped. 2.1 MB/s (322 bytes in 0.000s)
+../Projet/Triangle3.obj: 1 file pushed, 0 skipped. 2.1 MB/s (323 bytes in 0.000s)
+../Projet/Triangle4.obj: 1 file pushed, 0 skipped. 2.1 MB/s (322 bytes in 0.000s)
+../Projet/Triangle5.obj: 1 file pushed, 0 skipped. 2.1 MB/s (323 bytes in 0.000s)
+../Projet/Triangle6.obj: 1 file pushed, 0 skipped. 2.1 MB/s (322 bytes in 0.000s)
+../Projet/Triangle7.obj: 1 file pushed, 0 skipped. 2.2 MB/s (322 bytes in 0.000s)
+../Projet/triangle2.obj: 1 file pushed, 0 skipped. 2.2 MB/s (324 bytes in 0.000s)
+13 files pushed, 0 skipped. 0.9 MB/s (9608 bytes in 0.010s)
+adb: error: cannot stat '../Projet/*.png': No such file or directory
+tmp.json: 1 file pushed, 0 skipped. 39.2 MB/s (14947 bytes in 0.000s)
+load: 1 file pushed, 0 skipped. 0.0 MB/s (5 bytes in 0.000s)
+rights: 1 file pushed, 0 skipped. 0.0 MB/s (6 bytes in 0.000s)
+projectname: 1 file pushed, 0 skipped. 0.0 MB/s (7 bytes in 0.000s)
+Starting: Intent { cmp=com.Barnaque.Virtualite/com.epicgames.ue4.GameActivity }
+ALL
+allObjs : Carre.obj
+Cube3D.obj
+Pyramide3D.obj
+Rectangle.obj
+Rectangle3D.obj
+TABLE.obj
+Triangle1.obj
+Triangle3.obj
+Triangle4.obj
+Triangle5.obj
+Triangle6.obj
+Triangle7.obj
+triangle2.obj
+will replace %_MODEL1" with Content/Carre.obj" in savefile.
+will replace %_MODEL2" with Content/Cube3D.obj" in savefile.
+will replace %_MODEL3" with Content/Pyramide3D.obj" in savefile.
+will replace %_MODEL4" with Content/Rectangle.obj" in savefile.
+will replace %_MODEL5" with Content/Rectangle3D.obj" in savefile.
+will replace %_MODEL6" with Content/TABLE.obj" in savefile.
+will replace %_MODEL7" with Content/Triangle1.obj" in savefile.
+will replace %_MODEL8" with Content/Triangle3.obj" in savefile.
+will replace %_MODEL9" with Content/Triangle4.obj" in savefile.
+will replace %_MODEL10" with Content/Triangle5.obj" in savefile.
+will replace %_MODEL11" with Content/Triangle6.obj" in savefile.
+will replace %_MODEL12" with Content/Triangle7.obj" in savefile.
+will replace %_MODEL13" with Content/triangle2.obj" in savefile.
+
+
+
+
+
+
+
+
+../Projet/Carre.obj: 1 file pushed, 0 skipped. 1.5 MB/s (372 bytes in 0.000s)
+../Projet/Cube3D.obj: 1 file pushed, 0 skipped. 5.4 MB/s (951 bytes in 0.000s)
+../Projet/Pyramide3D.obj: 1 file pushed, 0 skipped. 4.4 MB/s (736 bytes in 0.000s)
+../Projet/Rectangle.obj: 1 file pushed, 0 skipped. 2.3 MB/s (380 bytes in 0.000s)
+../Projet/Rectangle3D.obj: 1 file pushed, 0 skipped. 5.6 MB/s (965 bytes in 0.000s)
+../Projet/TABLE.obj: 1 file pushed, 0 skipped. 20.6 MB/s (3946 bytes in 0.000s)
+../Projet/Triangle1.obj: 1 file pushed, 0 skipped. 2.0 MB/s (322 bytes in 0.000s)
+../Projet/Triangle3.obj: 1 file pushed, 0 skipped. 2.1 MB/s (323 bytes in 0.000s)
+../Projet/Triangle4.obj: 1 file pushed, 0 skipped. 2.0 MB/s (322 bytes in 0.000s)
+../Projet/Triangle5.obj: 1 file pushed, 0 skipped. 2.0 MB/s (323 bytes in 0.000s)
+../Projet/Triangle6.obj: 1 file pushed, 0 skipped. 2.1 MB/s (322 bytes in 0.000s)
+../Projet/Triangle7.obj: 1 file pushed, 0 skipped. 2.1 MB/s (322 bytes in 0.000s)
+../Projet/triangle2.obj: 1 file pushed, 0 skipped. 2.1 MB/s (324 bytes in 0.000s)
+13 files pushed, 0 skipped. 0.5 MB/s (9608 bytes in 0.017s)
+adb: error: cannot stat '../Projet/*.png': No such file or directory
+tmp.json: 1 file pushed, 0 skipped. 39.4 MB/s (14947 bytes in 0.000s)
+load: 1 file pushed, 0 skipped. 0.0 MB/s (5 bytes in 0.000s)
+rights: 1 file pushed, 0 skipped. 0.0 MB/s (6 bytes in 0.000s)
+projectname: 1 file pushed, 0 skipped. 0.0 MB/s (7 bytes in 0.000s)
+Starting: Intent { cmp=com.Barnaque.Virtualite/com.epicgames.ue4.GameActivity }
+sdcard/UE4Game/Virtualite/Virtualite/Content/savefile.json: 1 file pulled, 0 skipped. 5.2 MB/s (13294 bytes in 0.002s)
+allObjs : Carre.obj
+Cube3D.obj
+Pyramide3D.obj
+Rectangle.obj
+Rectangle3D.obj
+TABLE.obj
+Triangle1.obj
+Triangle3.obj
+Triangle4.obj
+Triangle5.obj
+Triangle6.obj
+Triangle7.obj
+triangle2.obj
+alreadyExists : 
+alreadyExists : 
+alreadyExists : 
+alreadyExists : 
+alreadyExists : 
+alreadyExists : 
+alreadyExists : 
+alreadyExists : 
+alreadyExists : 
+alreadyExists : 
+alreadyExists : 
+alreadyExists : 
+alreadyExists : 
+ALLCarre.obj
+Cube3D.obj
+Pyramide3D.obj
+Rectangle.obj
+Rectangle3D.obj
+TABLE.obj
+Triangle1.obj
+Triangle3.obj
+Triangle4.obj
+Triangle5.obj
+Triangle6.obj
+Triangle7.obj
+triangle2.obj
+will replace %_MODEL1" with Content/ALLCarre.obj" in savefile.
+
+
+
+
+
+
+
+
+../Projet/ASDFASDFASDF.obj: 1 file pushed, 0 skipped. 4.0 MB/s (3946 bytes in 0.001s)
+../Projet/Carre.obj: 1 file pushed, 0 skipped. 2.2 MB/s (372 bytes in 0.000s)
+../Projet/Cube3D.obj: 1 file pushed, 0 skipped. 5.8 MB/s (951 bytes in 0.000s)
+../Projet/Pyramide3D.obj: 1 file pushed, 0 skipped. 4.6 MB/s (736 bytes in 0.000s)
+../Projet/Rectangle.obj: 1 file pushed, 0 skipped. 2.5 MB/s (380 bytes in 0.000s)
+../Projet/Rectangle3D.obj: 1 file pushed, 0 skipped. 6.1 MB/s (965 bytes in 0.000s)
+../Projet/TABLE.obj: 1 file pushed, 0 skipped. 20.8 MB/s (3946 bytes in 0.000s)
+../Projet/Triangle1.obj: 1 file pushed, 0 skipped. 2.1 MB/s (322 bytes in 0.000s)
+../Projet/Triangle3.obj: 1 file pushed, 0 skipped. 2.1 MB/s (323 bytes in 0.000s)
+../Projet/Triangle4.obj: 1 file pushed, 0 skipped. 2.1 MB/s (322 bytes in 0.000s)
+../Projet/Triangle5.obj: 1 file pushed, 0 skipped. 2.2 MB/s (323 bytes in 0.000s)
+../Projet/Triangle6.obj: 1 file pushed, 0 skipped. 2.2 MB/s (322 bytes in 0.000s)
+../Projet/Triangle7.obj: 1 file pushed, 0 skipped. 2.2 MB/s (322 bytes in 0.000s)
+../Projet/triangle2.obj: 1 file pushed, 0 skipped. 2.2 MB/s (324 bytes in 0.000s)
+14 files pushed, 0 skipped. 0.7 MB/s (13554 bytes in 0.018s)
+adb: error: cannot stat '../Projet/*.png': No such file or directory
+tmp.json: 1 file pushed, 0 skipped. 35.9 MB/s (13294 bytes in 0.000s)
+load: 1 file pushed, 0 skipped. 0.0 MB/s (5 bytes in 0.000s)
+rights: 1 file pushed, 0 skipped. 0.0 MB/s (6 bytes in 0.000s)
+projectname: 1 file pushed, 0 skipped. 0.0 MB/s (7 bytes in 0.000s)
+Starting: Intent { cmp=com.Barnaque.Virtualite/com.epicgames.ue4.GameActivity }
+ALL
+Carre.obj
+Cube3D.obj
+Pyramide3D.obj
+Rectangle.obj
+Rectangle3D.obj
+TABLE.obj
+Triangle1.obj
+Triangle3.obj
+Triangle4.obj
+Triangle5.obj
+Triangle6.obj
+Triangle7.obj
+triangle2.obj
+allObjs : ASDFASDFASDF.obj
+Carre.obj
+Cube3D.obj
+Pyramide3D.obj
+Rectangle.obj
+Rectangle3D.obj
+TABLE.obj
+Triangle1.obj
+Triangle3.obj
+Triangle4.obj
+Triangle5.obj
+Triangle6.obj
+Triangle7.obj
+triangle2.obj
+will replace %_MODEL14" with Content/ASDFASDFASDF.obj" in savefile.
+will replace %_MODEL15" with Content/Carre.obj" in savefile.
+will replace %_MODEL16" with Content/Cube3D.obj" in savefile.
+will replace %_MODEL17" with Content/Pyramide3D.obj" in savefile.
+will replace %_MODEL18" with Content/Rectangle.obj" in savefile.
+will replace %_MODEL19" with Content/Rectangle3D.obj" in savefile.
+will replace %_MODEL20" with Content/TABLE.obj" in savefile.
+will replace %_MODEL21" with Content/Triangle1.obj" in savefile.
+will replace %_MODEL22" with Content/Triangle3.obj" in savefile.
+will replace %_MODEL23" with Content/Triangle4.obj" in savefile.
+will replace %_MODEL24" with Content/Triangle5.obj" in savefile.
+will replace %_MODEL25" with Content/Triangle6.obj" in savefile.
+will replace %_MODEL26" with Content/Triangle7.obj" in savefile.
+will replace %_MODEL27" with Content/triangle2.obj" in savefile.
+
+
+
+
+
+
+
+
+../Projet/ASDFASDFASDF.obj: 1 file pushed, 0 skipped. 14.0 MB/s (3946 bytes in 0.000s)
+../Projet/Carre.obj: 1 file pushed, 0 skipped. 2.2 MB/s (372 bytes in 0.000s)
+../Projet/Cube3D.obj: 1 file pushed, 0 skipped. 5.8 MB/s (951 bytes in 0.000s)
+../Projet/Pyramide3D.obj: 1 file pushed, 0 skipped. 4.4 MB/s (736 bytes in 0.000s)
+../Projet/Rectangle.obj: 1 file pushed, 0 skipped. 2.4 MB/s (380 bytes in 0.000s)
+../Projet/Rectangle3D.obj: 1 file pushed, 0 skipped. 5.9 MB/s (965 bytes in 0.000s)
+../Projet/TABLE.obj: 1 file pushed, 0 skipped. 20.1 MB/s (3946 bytes in 0.000s)
+../Projet/Triangle1.obj: 1 file pushed, 0 skipped. 2.0 MB/s (322 bytes in 0.000s)
+../Projet/Triangle3.obj: 1 file pushed, 0 skipped. 1.8 MB/s (323 bytes in 0.000s)
+../Projet/Triangle4.obj: 1 file pushed, 0 skipped. 2.0 MB/s (322 bytes in 0.000s)
+../Projet/Triangle5.obj: 1 file pushed, 0 skipped. 2.0 MB/s (323 bytes in 0.000s)
+../Projet/Triangle6.obj: 1 file pushed, 0 skipped. 2.0 MB/s (322 bytes in 0.000s)
+../Projet/Triangle7.obj: 1 file pushed, 0 skipped. 2.0 MB/s (322 bytes in 0.000s)
+../Projet/triangle2.obj: 1 file pushed, 0 skipped. 2.0 MB/s (324 bytes in 0.000s)
+14 files pushed, 0 skipped. 0.8 MB/s (13554 bytes in 0.016s)
+adb: error: cannot stat '../Projet/*.png': No such file or directory
+tmp.json: 1 file pushed, 0 skipped. 36.6 MB/s (13457 bytes in 0.000s)
+load: 1 file pushed, 0 skipped. 0.0 MB/s (5 bytes in 0.000s)
+rights: 1 file pushed, 0 skipped. 0.0 MB/s (6 bytes in 0.000s)
+projectname: 1 file pushed, 0 skipped. 0.0 MB/s (7 bytes in 0.000s)
+Starting: Intent { cmp=com.Barnaque.Virtualite/com.epicgames.ue4.GameActivity }
+ALL
+Carre.obj
+Cube3D.obj
+Pyramide3D.obj
+Rectangle.obj
+Rectangle3D.obj
+TABLE.obj
+Triangle1.obj
+Triangle3.obj
+Triangle4.obj
+Triangle5.obj
+Triangle6.obj
+Triangle7.obj
+triangle2.obj
+allObjs : ASDFASDFASDF.obj
+Carre.obj
+Cube3D.obj
+Pyramide3D.obj
+Rectangle.obj
+Rectangle3D.obj
+TABLE.obj
+Triangle1.obj
+Triangle3.obj
+Triangle4.obj
+Triangle5.obj
+Triangle6.obj
+Triangle7.obj
+triangle2.obj
+alreadyExists when loading : 
+will replace %_MODEL14" with Content/ASDFASDFASDF.obj" in savefile.
+alreadyExists when loading : 
+will replace %_MODEL15" with Content/Carre.obj" in savefile.
+alreadyExists when loading : 
+will replace %_MODEL16" with Content/Cube3D.obj" in savefile.
+alreadyExists when loading : 
+will replace %_MODEL17" with Content/Pyramide3D.obj" in savefile.
+alreadyExists when loading : 
+will replace %_MODEL18" with Content/Rectangle.obj" in savefile.
+alreadyExists when loading : 
+will replace %_MODEL19" with Content/Rectangle3D.obj" in savefile.
+alreadyExists when loading : 
+will replace %_MODEL20" with Content/TABLE.obj" in savefile.
+alreadyExists when loading : 
+will replace %_MODEL21" with Content/Triangle1.obj" in savefile.
+alreadyExists when loading : 
+will replace %_MODEL22" with Content/Triangle3.obj" in savefile.
+alreadyExists when loading : 
+will replace %_MODEL23" with Content/Triangle4.obj" in savefile.
+alreadyExists when loading : 
+will replace %_MODEL24" with Content/Triangle5.obj" in savefile.
+alreadyExists when loading : 
+will replace %_MODEL25" with Content/Triangle6.obj" in savefile.
+alreadyExists when loading : 
+will replace %_MODEL26" with Content/Triangle7.obj" in savefile.
+alreadyExists when loading : 
+will replace %_MODEL27" with Content/triangle2.obj" in savefile.
+
+
+
+
+
+
+
+
+../Projet/ASDFASDFASDF.obj: 1 file pushed, 0 skipped. 14.2 MB/s (3946 bytes in 0.000s)
+../Projet/Carre.obj: 1 file pushed, 0 skipped. 2.2 MB/s (372 bytes in 0.000s)
+../Projet/Cube3D.obj: 1 file pushed, 0 skipped. 5.8 MB/s (951 bytes in 0.000s)
+../Projet/Pyramide3D.obj: 1 file pushed, 0 skipped. 4.5 MB/s (736 bytes in 0.000s)
+../Projet/Rectangle.obj: 1 file pushed, 0 skipped. 2.5 MB/s (380 bytes in 0.000s)
+../Projet/Rectangle3D.obj: 1 file pushed, 0 skipped. 6.1 MB/s (965 bytes in 0.000s)
+../Projet/TABLE.obj: 1 file pushed, 0 skipped. 21.8 MB/s (3946 bytes in 0.000s)
+../Projet/Triangle1.obj: 1 file pushed, 0 skipped. 2.1 MB/s (322 bytes in 0.000s)
+../Projet/Triangle3.obj: 1 file pushed, 0 skipped. 2.1 MB/s (323 bytes in 0.000s)
+../Projet/Triangle4.obj: 1 file pushed, 0 skipped. 2.1 MB/s (322 bytes in 0.000s)
+../Projet/Triangle5.obj: 1 file pushed, 0 skipped. 2.1 MB/s (323 bytes in 0.000s)
+../Projet/Triangle6.obj: 1 file pushed, 0 skipped. 2.1 MB/s (322 bytes in 0.000s)
+../Projet/Triangle7.obj: 1 file pushed, 0 skipped. 2.1 MB/s (322 bytes in 0.000s)
+../Projet/triangle2.obj: 1 file pushed, 0 skipped. 2.2 MB/s (324 bytes in 0.000s)
+14 files pushed, 0 skipped. 0.7 MB/s (13554 bytes in 0.019s)
+adb: error: cannot stat '../Projet/*.png': No such file or directory
+tmp.json: 1 file pushed, 0 skipped. 37.1 MB/s (13457 bytes in 0.000s)
+load: 1 file pushed, 0 skipped. 0.0 MB/s (5 bytes in 0.000s)
+rights: 1 file pushed, 0 skipped. 0.0 MB/s (6 bytes in 0.000s)
+projectname: 1 file pushed, 0 skipped. 0.0 MB/s (7 bytes in 0.000s)
+Starting: Intent { cmp=com.Barnaque.Virtualite/com.epicgames.ue4.GameActivity }
+ALL
+Carre.obj
+Cube3D.obj
+Pyramide3D.obj
+Rectangle.obj
+Rectangle3D.obj
+TABLE.obj
+Triangle1.obj
+Triangle3.obj
+Triangle4.obj
+Triangle5.obj
+Triangle6.obj
+Triangle7.obj
+triangle2.obj
+allObjs : ASDFASDFASDF.obj
+Carre.obj
+Cube3D.obj
+Pyramide3D.obj
+Rectangle.obj
+Rectangle3D.obj
+TABLE.obj
+Triangle1.obj
+Triangle3.obj
+Triangle4.obj
+Triangle5.obj
+Triangle6.obj
+Triangle7.obj
+triangle2.obj
+lineObj : ASDFASDFASDF.obj
+alreadyExists when loading : 
+will replace %_MODEL14" with Content/ASDFASDFASDF.obj" in savefile.
+lineObj : Carre.obj
+alreadyExists when loading : 
+will replace %_MODEL15" with Content/Carre.obj" in savefile.
+lineObj : Cube3D.obj
+alreadyExists when loading : 
+will replace %_MODEL16" with Content/Cube3D.obj" in savefile.
+lineObj : Pyramide3D.obj
+alreadyExists when loading : 
+will replace %_MODEL17" with Content/Pyramide3D.obj" in savefile.
+lineObj : Rectangle.obj
+alreadyExists when loading : 
+will replace %_MODEL18" with Content/Rectangle.obj" in savefile.
+lineObj : Rectangle3D.obj
+alreadyExists when loading : 
+will replace %_MODEL19" with Content/Rectangle3D.obj" in savefile.
+lineObj : TABLE.obj
+alreadyExists when loading : 
+will replace %_MODEL20" with Content/TABLE.obj" in savefile.
+lineObj : Triangle1.obj
+alreadyExists when loading : 
+will replace %_MODEL21" with Content/Triangle1.obj" in savefile.
+lineObj : Triangle3.obj
+alreadyExists when loading : 
+will replace %_MODEL22" with Content/Triangle3.obj" in savefile.
+lineObj : Triangle4.obj
+alreadyExists when loading : 
+will replace %_MODEL23" with Content/Triangle4.obj" in savefile.
+lineObj : Triangle5.obj
+alreadyExists when loading : 
+will replace %_MODEL24" with Content/Triangle5.obj" in savefile.
+lineObj : Triangle6.obj
+alreadyExists when loading : 
+will replace %_MODEL25" with Content/Triangle6.obj" in savefile.
+lineObj : Triangle7.obj
+alreadyExists when loading : 
+will replace %_MODEL26" with Content/Triangle7.obj" in savefile.
+lineObj : triangle2.obj
+alreadyExists when loading : 
+will replace %_MODEL27" with Content/triangle2.obj" in savefile.
+
+
+
+
+
+
+
+
+../Projet/ASDFASDFASDF.obj: 1 file pushed, 0 skipped. 14.0 MB/s (3946 bytes in 0.000s)
+../Projet/Carre.obj: 1 file pushed, 0 skipped. 2.3 MB/s (372 bytes in 0.000s)
+../Projet/Cube3D.obj: 1 file pushed, 0 skipped. 5.8 MB/s (951 bytes in 0.000s)
+../Projet/Pyramide3D.obj: 1 file pushed, 0 skipped. 4.6 MB/s (736 bytes in 0.000s)
+../Projet/Rectangle.obj: 1 file pushed, 0 skipped. 2.5 MB/s (380 bytes in 0.000s)
+../Projet/Rectangle3D.obj: 1 file pushed, 0 skipped. 6.0 MB/s (965 bytes in 0.000s)
+../Projet/TABLE.obj: 1 file pushed, 0 skipped. 21.1 MB/s (3946 bytes in 0.000s)
+../Projet/Triangle1.obj: 1 file pushed, 0 skipped. 2.1 MB/s (322 bytes in 0.000s)
+../Projet/Triangle3.obj: 1 file pushed, 0 skipped. 2.1 MB/s (323 bytes in 0.000s)
+../Projet/Triangle4.obj: 1 file pushed, 0 skipped. 2.1 MB/s (322 bytes in 0.000s)
+../Projet/Triangle5.obj: 1 file pushed, 0 skipped. 2.1 MB/s (323 bytes in 0.000s)
+../Projet/Triangle6.obj: 1 file pushed, 0 skipped. 2.1 MB/s (322 bytes in 0.000s)
+../Projet/Triangle7.obj: 1 file pushed, 0 skipped. 2.1 MB/s (322 bytes in 0.000s)
+../Projet/triangle2.obj: 1 file pushed, 0 skipped. 2.2 MB/s (324 bytes in 0.000s)
+14 files pushed, 0 skipped. 0.7 MB/s (13554 bytes in 0.020s)
+adb: error: cannot stat '../Projet/*.png': No such file or directory
+tmp.json: 1 file pushed, 0 skipped. 36.3 MB/s (13457 bytes in 0.000s)
+load: 1 file pushed, 0 skipped. 0.0 MB/s (5 bytes in 0.000s)
+rights: 1 file pushed, 0 skipped. 0.0 MB/s (6 bytes in 0.000s)
+projectname: 1 file pushed, 0 skipped. 0.0 MB/s (7 bytes in 0.000s)
+Starting: Intent { cmp=com.Barnaque.Virtualite/com.epicgames.ue4.GameActivity }
+ALL
+Carre.obj
+Cube3D.obj
+Pyramide3D.obj
+Rectangle.obj
+Rectangle3D.obj
+TABLE.obj
+Triangle1.obj
+Triangle3.obj
+Triangle4.obj
+Triangle5.obj
+Triangle6.obj
+Triangle7.obj
+triangle2.obj
+allObjs : ASDFASDFASDF.obj
+Carre.obj
+Cube3D.obj
+Pyramide3D.obj
+Rectangle.obj
+Rectangle3D.obj
+TABLE.obj
+Triangle1.obj
+Triangle3.obj
+Triangle4.obj
+Triangle5.obj
+Triangle6.obj
+Triangle7.obj
+triangle2.obj
+lineObj : ASDFASDFASDF.obj
+alreadyExists when loading : 
+will replace %_MODEL14" with Content/ASDFASDFASDF.obj" in savefile.
+lineObj : Carre.obj
+alreadyExists when loading : 
+will replace %_MODEL15" with Content/Carre.obj" in savefile.
+lineObj : Cube3D.obj
+alreadyExists when loading : 
+will replace %_MODEL16" with Content/Cube3D.obj" in savefile.
+lineObj : Pyramide3D.obj
+alreadyExists when loading : 
+will replace %_MODEL17" with Content/Pyramide3D.obj" in savefile.
+lineObj : Rectangle.obj
+alreadyExists when loading : 
+will replace %_MODEL18" with Content/Rectangle.obj" in savefile.
+lineObj : Rectangle3D.obj
+alreadyExists when loading : 
+will replace %_MODEL19" with Content/Rectangle3D.obj" in savefile.
+lineObj : TABLE.obj
+alreadyExists when loading : 
+will replace %_MODEL20" with Content/TABLE.obj" in savefile.
+lineObj : Triangle1.obj
+alreadyExists when loading : 
+will replace %_MODEL21" with Content/Triangle1.obj" in savefile.
+lineObj : Triangle3.obj
+alreadyExists when loading : 
+will replace %_MODEL22" with Content/Triangle3.obj" in savefile.
+lineObj : Triangle4.obj
+alreadyExists when loading : 
+will replace %_MODEL23" with Content/Triangle4.obj" in savefile.
+lineObj : Triangle5.obj
+alreadyExists when loading : 
+will replace %_MODEL24" with Content/Triangle5.obj" in savefile.
+lineObj : Triangle6.obj
+alreadyExists when loading : 
+will replace %_MODEL25" with Content/Triangle6.obj" in savefile.
+lineObj : Triangle7.obj
+alreadyExists when loading : 
+will replace %_MODEL26" with Content/Triangle7.obj" in savefile.
+lineObj : triangle2.obj
+alreadyExists when loading : 
+will replace %_MODEL27" with Content/triangle2.obj" in savefile.
+
+
+
+
+
+
+
+
+../Projet/ASDFASDFASDF.obj: 1 file pushed, 0 skipped. 14.1 MB/s (3946 bytes in 0.000s)
+../Projet/Carre.obj: 1 file pushed, 0 skipped. 2.2 MB/s (372 bytes in 0.000s)
+../Projet/Cube3D.obj: 1 file pushed, 0 skipped. 6.0 MB/s (951 bytes in 0.000s)
+../Projet/Pyramide3D.obj: 1 file pushed, 0 skipped. 4.4 MB/s (736 bytes in 0.000s)
+../Projet/Rectangle.obj: 1 file pushed, 0 skipped. 2.4 MB/s (380 bytes in 0.000s)
+../Projet/Rectangle3D.obj: 1 file pushed, 0 skipped. 6.0 MB/s (965 bytes in 0.000s)
+../Projet/TABLE.obj: 1 file pushed, 0 skipped. 20.4 MB/s (3946 bytes in 0.000s)
+../Projet/Triangle1.obj: 1 file pushed, 0 skipped. 2.1 MB/s (322 bytes in 0.000s)
+../Projet/Triangle3.obj: 1 file pushed, 0 skipped. 2.1 MB/s (323 bytes in 0.000s)
+../Projet/Triangle4.obj: 1 file pushed, 0 skipped. 2.0 MB/s (322 bytes in 0.000s)
+../Projet/Triangle5.obj: 1 file pushed, 0 skipped. 2.1 MB/s (323 bytes in 0.000s)
+../Projet/Triangle6.obj: 1 file pushed, 0 skipped. 2.0 MB/s (322 bytes in 0.000s)
+../Projet/Triangle7.obj: 1 file pushed, 0 skipped. 2.0 MB/s (322 bytes in 0.000s)
+../Projet/triangle2.obj: 1 file pushed, 0 skipped. 2.0 MB/s (324 bytes in 0.000s)
+14 files pushed, 0 skipped. 0.8 MB/s (13554 bytes in 0.017s)
+adb: error: cannot stat '../Projet/*.png': No such file or directory
+tmp.json: 1 file pushed, 0 skipped. 36.5 MB/s (13457 bytes in 0.000s)
+load: 1 file pushed, 0 skipped. 0.0 MB/s (5 bytes in 0.000s)
+rights: 1 file pushed, 0 skipped. 0.0 MB/s (6 bytes in 0.000s)
+projectname: 1 file pushed, 0 skipped. 0.0 MB/s (7 bytes in 0.000s)
+Starting: Intent { cmp=com.Barnaque.Virtualite/com.epicgames.ue4.GameActivity }
+ALL
+Carre.obj
+Cube3D.obj
+Pyramide3D.obj
+Rectangle.obj
+Rectangle3D.obj
+TABLE.obj
+Triangle1.obj
+Triangle3.obj
+Triangle4.obj
+Triangle5.obj
+Triangle6.obj
+Triangle7.obj
+triangle2.obj
+allObjs : ASDFASDFASDF.obj
+Carre.obj
+Cube3D.obj
+Pyramide3D.obj
+Rectangle.obj
+Rectangle3D.obj
+TABLE.obj
+Triangle1.obj
+Triangle3.obj
+Triangle4.obj
+Triangle5.obj
+Triangle6.obj
+Triangle7.obj
+triangle2.obj
+lineObj : ASDFASDFASDF.obj
+alreadyExists when loading : 
+will replace %_MODEL14" with Content/ASDFASDFASDF.obj" in savefile.
+lineObj : Carre.obj
+alreadyExists when loading : Carre.obj
+lineObj : Cube3D.obj
+alreadyExists when loading : Cube3D.obj
+lineObj : Pyramide3D.obj
+alreadyExists when loading : Pyramide3D.obj
+lineObj : Rectangle.obj
+alreadyExists when loading : Rectangle.obj
+lineObj : Rectangle3D.obj
+alreadyExists when loading : Rectangle3D.obj
+lineObj : TABLE.obj
+alreadyExists when loading : TABLE.obj
+lineObj : Triangle1.obj
+alreadyExists when loading : Triangle1.obj
+lineObj : Triangle3.obj
+alreadyExists when loading : Triangle3.obj
+lineObj : Triangle4.obj
+alreadyExists when loading : Triangle4.obj
+lineObj : Triangle5.obj
+alreadyExists when loading : Triangle5.obj
+lineObj : Triangle6.obj
+alreadyExists when loading : Triangle6.obj
+lineObj : Triangle7.obj
+alreadyExists when loading : Triangle7.obj
+lineObj : triangle2.obj
+alreadyExists when loading : triangle2.obj
+
+
+
+
+
+
+
+
+../Projet/ASDFASDFASDF.obj: 1 file pushed, 0 skipped. 13.3 MB/s (3946 bytes in 0.000s)
+../Projet/Carre.obj: 1 file pushed, 0 skipped. 1.5 MB/s (372 bytes in 0.000s)
+../Projet/Cube3D.obj: 1 file pushed, 0 skipped. 4.9 MB/s (951 bytes in 0.000s)
+../Projet/Pyramide3D.obj: 1 file pushed, 0 skipped. 3.8 MB/s (736 bytes in 0.000s)
+../Projet/Rectangle.obj: 1 file pushed, 0 skipped. 2.1 MB/s (380 bytes in 0.000s)
+../Projet/Rectangle3D.obj: 1 file pushed, 0 skipped. 5.0 MB/s (965 bytes in 0.000s)
+../Projet/TABLE.obj: 1 file pushed, 0 skipped. 17.2 MB/s (3946 bytes in 0.000s)
+../Projet/Triangle1.obj: 1 file pushed, 0 skipped. 1.5 MB/s (322 bytes in 0.000s)
+../Projet/Triangle3.obj: 1 file pushed, 0 skipped. 1.6 MB/s (323 bytes in 0.000s)
+../Projet/Triangle4.obj: 1 file pushed, 0 skipped. 2.1 MB/s (322 bytes in 0.000s)
+../Projet/Triangle5.obj: 1 file pushed, 0 skipped. 1.8 MB/s (323 bytes in 0.000s)
+../Projet/Triangle6.obj: 1 file pushed, 0 skipped. 2.1 MB/s (322 bytes in 0.000s)
+../Projet/Triangle7.obj: 1 file pushed, 0 skipped. 2.0 MB/s (322 bytes in 0.000s)
+../Projet/triangle2.obj: 1 file pushed, 0 skipped. 1.8 MB/s (324 bytes in 0.000s)
+14 files pushed, 0 skipped. 0.6 MB/s (13554 bytes in 0.021s)
+adb: error: cannot stat '../Projet/*.png': No such file or directory
+tmp.json: 1 file pushed, 0 skipped. 37.2 MB/s (13309 bytes in 0.000s)
+load: 1 file pushed, 0 skipped. 0.0 MB/s (5 bytes in 0.000s)
+rights: 1 file pushed, 0 skipped. 0.0 MB/s (6 bytes in 0.000s)
+projectname: 1 file pushed, 0 skipped. 0.0 MB/s (7 bytes in 0.000s)
+Starting: Intent { cmp=com.Barnaque.Virtualite/com.epicgames.ue4.GameActivity }
+ALL
+allObjs : Carre.obj
+Cube3D.obj
+Pyramide3D.obj
+Rectangle.obj
+Rectangle3D.obj
+TABLE.obj
+Triangle1.obj
+Triangle3.obj
+Triangle4.obj
+Triangle5.obj
+Triangle6.obj
+Triangle7.obj
+triangle2.obj
+lineObj : Carre.obj
+alreadyExists when loading : 
+will replace %_MODEL1" with Content/Carre.obj" in savefile.
+lineObj : Cube3D.obj
+alreadyExists when loading : 
+will replace %_MODEL2" with Content/Cube3D.obj" in savefile.
+lineObj : Pyramide3D.obj
+alreadyExists when loading : 
+will replace %_MODEL3" with Content/Pyramide3D.obj" in savefile.
+lineObj : Rectangle.obj
+alreadyExists when loading : 
+will replace %_MODEL4" with Content/Rectangle.obj" in savefile.
+lineObj : Rectangle3D.obj
+alreadyExists when loading : 
+will replace %_MODEL5" with Content/Rectangle3D.obj" in savefile.
+lineObj : TABLE.obj
+alreadyExists when loading : 
+will replace %_MODEL6" with Content/TABLE.obj" in savefile.
+lineObj : Triangle1.obj
+alreadyExists when loading : 
+will replace %_MODEL7" with Content/Triangle1.obj" in savefile.
+lineObj : Triangle3.obj
+alreadyExists when loading : 
+will replace %_MODEL8" with Content/Triangle3.obj" in savefile.
+lineObj : Triangle4.obj
+alreadyExists when loading : 
+will replace %_MODEL9" with Content/Triangle4.obj" in savefile.
+lineObj : Triangle5.obj
+alreadyExists when loading : 
+will replace %_MODEL10" with Content/Triangle5.obj" in savefile.
+lineObj : Triangle6.obj
+alreadyExists when loading : 
+will replace %_MODEL11" with Content/Triangle6.obj" in savefile.
+lineObj : Triangle7.obj
+alreadyExists when loading : 
+will replace %_MODEL12" with Content/Triangle7.obj" in savefile.
+lineObj : triangle2.obj
+alreadyExists when loading : 
+will replace %_MODEL13" with Content/triangle2.obj" in savefile.
+
+
+
+
+
+
+
+
+../Projet/Carre.obj: 1 file pushed, 0 skipped. 1.5 MB/s (372 bytes in 0.000s)
+../Projet/Cube3D.obj: 1 file pushed, 0 skipped. 5.9 MB/s (951 bytes in 0.000s)
+../Projet/Pyramide3D.obj: 1 file pushed, 0 skipped. 2.9 MB/s (736 bytes in 0.000s)
+../Projet/Rectangle.obj: 1 file pushed, 0 skipped. 2.2 MB/s (380 bytes in 0.000s)
+../Projet/Rectangle3D.obj: 1 file pushed, 0 skipped. 3.9 MB/s (965 bytes in 0.000s)
+../Projet/TABLE.obj: 1 file pushed, 0 skipped. 15.3 MB/s (3946 bytes in 0.000s)
+../Projet/Triangle1.obj: 1 file pushed, 0 skipped. 1.8 MB/s (322 bytes in 0.000s)
+../Projet/Triangle3.obj: 1 file pushed, 0 skipped. 1.4 MB/s (323 bytes in 0.000s)
+../Projet/Triangle4.obj: 1 file pushed, 0 skipped. 2.0 MB/s (322 bytes in 0.000s)
+../Projet/Triangle5.obj: 1 file pushed, 0 skipped. 1.9 MB/s (323 bytes in 0.000s)
+../Projet/Triangle6.obj: 1 file pushed, 0 skipped. 1.2 MB/s (322 bytes in 0.000s)
+../Projet/Triangle7.obj: 1 file pushed, 0 skipped. 1.7 MB/s (322 bytes in 0.000s)
+../Projet/triangle2.obj: 1 file pushed, 0 skipped. 2.1 MB/s (324 bytes in 0.000s)
+13 files pushed, 0 skipped. 0.5 MB/s (9608 bytes in 0.020s)
+adb: error: cannot stat '../Projet/*.png': No such file or directory
+tmp.json: 1 file pushed, 0 skipped. 39.7 MB/s (14947 bytes in 0.000s)
+load: 1 file pushed, 0 skipped. 0.0 MB/s (5 bytes in 0.000s)
+rights: 1 file pushed, 0 skipped. 0.0 MB/s (6 bytes in 0.000s)
+projectname: 1 file pushed, 0 skipped. 0.0 MB/s (7 bytes in 0.000s)
+Starting: Intent { cmp=com.Barnaque.Virtualite/com.epicgames.ue4.GameActivity }
+sdcard/UE4Game/Virtualite/Virtualite/Content/savefile.json: 1 file pulled, 0 skipped. 8.0 MB/s (14947 bytes in 0.002s)
+allObjs : Carre.obj
+Cube3D.obj
+Pyramide3D.obj
+Rectangle.obj
+Rectangle3D.obj
+TABLE.obj
+Triangle1.obj
+Triangle3.obj
+Triangle4.obj
+Triangle5.obj
+Triangle6.obj
+Triangle7.obj
+triangle2.obj
+alreadyExists when saving : 
+alreadyExists when saving : 
+alreadyExists when saving : 
+alreadyExists when saving : 
+alreadyExists when saving : 
+alreadyExists when saving : 
+alreadyExists when saving : 
+alreadyExists when saving : 
+alreadyExists when saving : 
+alreadyExists when saving : 
+alreadyExists when saving : 
+alreadyExists when saving : 
+alreadyExists when saving : 
+ALL
+Carre.obj
+Cube3D.obj
+Pyramide3D.obj
+Rectangle.obj
+Rectangle3D.obj
+TABLE.obj
+Triangle1.obj
+Triangle3.obj
+Triangle4.obj
+Triangle5.obj
+Triangle6.obj
+Triangle7.obj
+triangle2.obj
+allObjs : ASDFASDFASDF.obj
+Carre.obj
+Cube3D.obj
+Pyramide3D.obj
+Rectangle.obj
+Rectangle3D.obj
+TABLE.obj
+Triangle1.obj
+Triangle3.obj
+Triangle4.obj
+Triangle5.obj
+Triangle6.obj
+Triangle7.obj
+triangle2.obj
+lineObj : ASDFASDFASDF.obj
+alreadyExists when loading : 
+will replace %_MODEL14" with Content/ASDFASDFASDF.obj" in savefile.
+lineObj : Carre.obj
+alreadyExists when loading : Carre.obj
+lineObj : Cube3D.obj
+alreadyExists when loading : Cube3D.obj
+lineObj : Pyramide3D.obj
+alreadyExists when loading : Pyramide3D.obj
+lineObj : Rectangle.obj
+alreadyExists when loading : Rectangle.obj
+lineObj : Rectangle3D.obj
+alreadyExists when loading : Rectangle3D.obj
+lineObj : TABLE.obj
+alreadyExists when loading : TABLE.obj
+lineObj : Triangle1.obj
+alreadyExists when loading : Triangle1.obj
+lineObj : Triangle3.obj
+alreadyExists when loading : Triangle3.obj
+lineObj : Triangle4.obj
+alreadyExists when loading : Triangle4.obj
+lineObj : Triangle5.obj
+alreadyExists when loading : Triangle5.obj
+lineObj : Triangle6.obj
+alreadyExists when loading : Triangle6.obj
+lineObj : Triangle7.obj
+alreadyExists when loading : Triangle7.obj
+lineObj : triangle2.obj
+alreadyExists when loading : triangle2.obj
+
+
+
+
+
+
+
+
+../Projet/ASDFASDFASDF.obj: 1 file pushed, 0 skipped. 14.7 MB/s (3946 bytes in 0.000s)
+../Projet/Carre.obj: 1 file pushed, 0 skipped. 2.2 MB/s (372 bytes in 0.000s)
+../Projet/Cube3D.obj: 1 file pushed, 0 skipped. 5.8 MB/s (951 bytes in 0.000s)
+../Projet/Pyramide3D.obj: 1 file pushed, 0 skipped. 4.6 MB/s (736 bytes in 0.000s)
+../Projet/Rectangle.obj: 1 file pushed, 0 skipped. 2.5 MB/s (380 bytes in 0.000s)
+../Projet/Rectangle3D.obj: 1 file pushed, 0 skipped. 6.2 MB/s (965 bytes in 0.000s)
+../Projet/TABLE.obj: 1 file pushed, 0 skipped. 21.1 MB/s (3946 bytes in 0.000s)
+../Projet/Triangle1.obj: 1 file pushed, 0 skipped. 2.1 MB/s (322 bytes in 0.000s)
+../Projet/Triangle3.obj: 1 file pushed, 0 skipped. 2.2 MB/s (323 bytes in 0.000s)
+../Projet/Triangle4.obj: 1 file pushed, 0 skipped. 2.1 MB/s (322 bytes in 0.000s)
+../Projet/Triangle5.obj: 1 file pushed, 0 skipped. 2.1 MB/s (323 bytes in 0.000s)
+../Projet/Triangle6.obj: 1 file pushed, 0 skipped. 2.2 MB/s (322 bytes in 0.000s)
+../Projet/Triangle7.obj: 1 file pushed, 0 skipped. 2.1 MB/s (322 bytes in 0.000s)
+../Projet/triangle2.obj: 1 file pushed, 0 skipped. 2.2 MB/s (324 bytes in 0.000s)
+14 files pushed, 0 skipped. 0.7 MB/s (13554 bytes in 0.017s)
+adb: error: cannot stat '../Projet/*.png': No such file or directory
+tmp.json: 1 file pushed, 0 skipped. 40.9 MB/s (14962 bytes in 0.000s)
+load: 1 file pushed, 0 skipped. 0.0 MB/s (5 bytes in 0.000s)
+rights: 1 file pushed, 0 skipped. 0.0 MB/s (6 bytes in 0.000s)
+projectname: 1 file pushed, 0 skipped. 0.0 MB/s (7 bytes in 0.000s)
+Starting: Intent { cmp=com.Barnaque.Virtualite/com.epicgames.ue4.GameActivity }

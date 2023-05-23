@@ -3,5 +3,6 @@ Virtualité permet la création d'environnements 3D directement en réalité vir
 
 Pour utiliser Virtualité, le casque Quest doit être en mode développeur. Pour savoir la marche à suivre, vous pouvez regarder cette vidéo (en anglais): https://www.youtube.com/watch?v=Yblp3LH1UAI
 
-Pour savoir comment utiliser les outils sur PC, regardez cette vidéo:
+Pour savoir comment utiliser les outils sur PC, regardez cette vidéo: https://youtu.be/Hvd65-7vJbo
+
 Et pour utiliser l'application elle-même, voici le tutoriel: https://youtu.be/Hvd65-7vJbo

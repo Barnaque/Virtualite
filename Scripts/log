@@ -1,0 +1,206 @@
+ALL
+allObjs : 
+
+
+
+
+
+
+
+
+adb: error: cannot stat '../Projet/*.obj': No such file or directory
+adb: error: cannot stat '../Projet/*.png': No such file or directory
+tmp.json: 1 file pushed, 0 skipped. 29.0 MB/s (14790 bytes in 0.000s)
+load: 1 file pushed, 0 skipped. 0.0 MB/s (5 bytes in 0.000s)
+rights: 1 file pushed, 0 skipped. 0.0 MB/s (6 bytes in 0.000s)
+projectname: 1 file pushed, 0 skipped. 0.0 MB/s (7 bytes in 0.000s)
+Starting: Intent { cmp=com.Barnaque.Virtualite/com.epicgames.ue4.GameActivity }
+ALL
+allObjs : AnimatedChest.obj
+Barrel.obj
+Book.obj
+Dagger.obj
+Gems.obj
+IceStaff.obj
+KnightHelmet.obj
+Rollofpaper.obj
+Scroll.obj
+Shield.obj
+Staff.obj
+Sword.obj
+WoodenStaff.obj
+lineObj : AnimatedChest.obj
+alreadyExists when loading : 
+will replace %_MODEL1" with Content/AnimatedChest.obj" in savefile.
+lineObj : Barrel.obj
+alreadyExists when loading : 
+will replace %_MODEL2" with Content/Barrel.obj" in savefile.
+lineObj : Book.obj
+alreadyExists when loading : 
+will replace %_MODEL3" with Content/Book.obj" in savefile.
+lineObj : Dagger.obj
+alreadyExists when loading : 
+will replace %_MODEL4" with Content/Dagger.obj" in savefile.
+lineObj : Gems.obj
+alreadyExists when loading : 
+will replace %_MODEL5" with Content/Gems.obj" in savefile.
+lineObj : IceStaff.obj
+alreadyExists when loading : 
+will replace %_MODEL6" with Content/IceStaff.obj" in savefile.
+lineObj : KnightHelmet.obj
+alreadyExists when loading : 
+will replace %_MODEL7" with Content/KnightHelmet.obj" in savefile.
+lineObj : Rollofpaper.obj
+alreadyExists when loading : 
+will replace %_MODEL8" with Content/Rollofpaper.obj" in savefile.
+lineObj : Scroll.obj
+alreadyExists when loading : 
+will replace %_MODEL9" with Content/Scroll.obj" in savefile.
+lineObj : Shield.obj
+alreadyExists when loading : 
+will replace %_MODEL10" with Content/Shield.obj" in savefile.
+lineObj : Staff.obj
+alreadyExists when loading : 
+will replace %_MODEL11" with Content/Staff.obj" in savefile.
+lineObj : Sword.obj
+alreadyExists when loading : 
+will replace %_MODEL12" with Content/Sword.obj" in savefile.
+lineObj : WoodenStaff.obj
+alreadyExists when loading : 
+will replace %_MODEL13" with Content/WoodenStaff.obj" in savefile.
+
+
+
+
+
+
+
+
+../Projet/AnimatedChest.obj: 1 file pushed, 0 skipped. 40.8 MB/s (19399 bytes in 0.000s)
+../Projet/Barrel.obj: 1 file pushed, 0 skipped. 69.0 MB/s (35789 bytes in 0.000s)
+../Projet/Book.obj: 1 file pushed, 0 skipped. 28.5 MB/s (12677 bytes in 0.000s)
+../Projet/Dagger.obj: 1 file pushed, 0 skipped. 64.8 MB/s (34791 bytes in 0.001s)
+../Projet/Gems.obj: 1 file pushed, 0 skipped. 46.6 MB/s (24793 bytes in 0.001s)
+../Projet/IceStaff.obj: 1 file pushed, 0 skipped. 51.2 MB/s (20323 bytes in 0.000s)
+../Projet/KnightHelmet.obj: 1 file pushed, 0 skipped. 76.6 MB/s (47803 bytes in 0.001s)
+../Projet/Rollofpaper.obj: 1 file pushed, 0 skipped. 61.3 MB/s (25954 bytes in 0.000s)
+../Projet/Scroll.obj: 1 file pushed, 0 skipped. 56.3 MB/s (44407 bytes in 0.001s)
+../Projet/Shield.obj: 1 file pushed, 0 skipped. 49.7 MB/s (15347 bytes in 0.000s)
+../Projet/Staff.obj: 1 file pushed, 0 skipped. 47.4 MB/s (14247 bytes in 0.000s)
+../Projet/Sword.obj: 1 file pushed, 0 skipped. 70.0 MB/s (34790 bytes in 0.000s)
+../Projet/WoodenStaff.obj: 1 file pushed, 0 skipped. 39.4 MB/s (10118 bytes in 0.000s)
+13 files pushed, 0 skipped. 2.0 MB/s (340438 bytes in 0.160s)
+adb: error: cannot stat '../Projet/*.png': No such file or directory
+tmp.json: 1 file pushed, 0 skipped. 35.9 MB/s (14935 bytes in 0.000s)
+load: 1 file pushed, 0 skipped. 0.0 MB/s (5 bytes in 0.000s)
+rights: 1 file pushed, 0 skipped. 0.0 MB/s (6 bytes in 0.000s)
+projectname: 1 file pushed, 0 skipped. 0.0 MB/s (7 bytes in 0.000s)
+Starting: Intent { cmp=com.Barnaque.Virtualite/com.epicgames.ue4.GameActivity }
+sdcard/UE4Game/Virtualite/Virtualite/Content/savefile.json: 1 file pulled, 0 skipped. 10.0 MB/s (16400 bytes in 0.002s)
+allObjs : AnimatedChest.obj
+Barrel.obj
+Book.obj
+Dagger.obj
+Gems.obj
+IceStaff.obj
+KnightHelmet.obj
+Rollofpaper.obj
+Scroll.obj
+Shield.obj
+Staff.obj
+Sword.obj
+WoodenStaff.obj
+alreadyExists when saving : 
+alreadyExists when saving : 
+alreadyExists when saving : 
+alreadyExists when saving : 
+alreadyExists when saving : 
+alreadyExists when saving : 
+alreadyExists when saving : 
+alreadyExists when saving : 
+alreadyExists when saving : 
+alreadyExists when saving : 
+alreadyExists when saving : IceStaff.obj
+alreadyExists when saving : 
+alreadyExists when saving : 
+ALL
+AnimatedChest.obj
+Barrel.obj
+Book.obj
+Dagger.obj
+Gems.obj
+IceStaff.obj
+KnightHelmet.obj
+Rollofpaper.obj
+Scroll.obj
+Shield.obj
+Sword.obj
+WoodenStaff.obj
+allObjs : AnimatedChest.obj
+Barrel.obj
+Book.obj
+Dagger.obj
+Gems.obj
+IceStaff.obj
+KnightHelmet.obj
+Rollofpaper.obj
+Scroll.obj
+Shield.obj
+Staff.obj
+Sword.obj
+WoodenStaff.obj
+lineObj : AnimatedChest.obj
+alreadyExists when loading : AnimatedChest.obj
+lineObj : Barrel.obj
+alreadyExists when loading : Barrel.obj
+lineObj : Book.obj
+alreadyExists when loading : Book.obj
+lineObj : Dagger.obj
+alreadyExists when loading : Dagger.obj
+lineObj : Gems.obj
+alreadyExists when loading : Gems.obj
+lineObj : IceStaff.obj
+alreadyExists when loading : IceStaff.obj
+lineObj : KnightHelmet.obj
+alreadyExists when loading : KnightHelmet.obj
+lineObj : Rollofpaper.obj
+alreadyExists when loading : Rollofpaper.obj
+lineObj : Scroll.obj
+alreadyExists when loading : Scroll.obj
+lineObj : Shield.obj
+alreadyExists when loading : Shield.obj
+lineObj : Staff.obj
+alreadyExists when loading : IceStaff.obj
+WoodenStaff.obj
+lineObj : Sword.obj
+alreadyExists when loading : Sword.obj
+lineObj : WoodenStaff.obj
+alreadyExists when loading : WoodenStaff.obj
+
+
+
+
+
+
+
+
+../Projet/AnimatedChest.obj: 1 file pushed, 0 skipped. 42.2 MB/s (19399 bytes in 0.000s)
+../Projet/Barrel.obj: 1 file pushed, 0 skipped. 60.5 MB/s (35789 bytes in 0.001s)
+../Projet/Book.obj: 1 file pushed, 0 skipped. 29.6 MB/s (12677 bytes in 0.000s)
+../Projet/Dagger.obj: 1 file pushed, 0 skipped. 58.0 MB/s (34791 bytes in 0.001s)
+../Projet/Gems.obj: 1 file pushed, 0 skipped. 48.1 MB/s (24793 bytes in 0.000s)
+../Projet/IceStaff.obj: 1 file pushed, 0 skipped. 33.0 MB/s (20323 bytes in 0.001s)
+../Projet/KnightHelmet.obj: 1 file pushed, 0 skipped. 75.9 MB/s (47803 bytes in 0.001s)
+../Projet/Rollofpaper.obj: 1 file pushed, 0 skipped. 62.1 MB/s (25954 bytes in 0.000s)
+../Projet/Scroll.obj: 1 file pushed, 0 skipped. 53.4 MB/s (44407 bytes in 0.001s)
+../Projet/Shield.obj: 1 file pushed, 0 skipped. 49.6 MB/s (15347 bytes in 0.000s)
+../Projet/Staff.obj: 1 file pushed, 0 skipped. 45.5 MB/s (14247 bytes in 0.000s)
+../Projet/Sword.obj: 1 file pushed, 0 skipped. 69.9 MB/s (34790 bytes in 0.000s)
+../Projet/WoodenStaff.obj: 1 file pushed, 0 skipped. 39.4 MB/s (10118 bytes in 0.000s)
+13 files pushed, 0 skipped. 1.2 MB/s (340438 bytes in 0.265s)
+adb: error: cannot stat '../Projet/*.png': No such file or directory
+tmp.json: 1 file pushed, 0 skipped. 37.4 MB/s (16400 bytes in 0.000s)
+load: 1 file pushed, 0 skipped. 0.0 MB/s (5 bytes in 0.000s)
+rights: 1 file pushed, 0 skipped. 0.0 MB/s (5 bytes in 0.000s)
+projectname: 1 file pushed, 0 skipped. 0.0 MB/s (7 bytes in 0.000s)
+Starting: Intent { cmp=com.Barnaque.Virtualite/com.epicgames.ue4.GameActivity }
